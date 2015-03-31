@@ -1,4 +1,4 @@
-A list of Free and Open Source Software (FOSS) for Tamil computing.
+A list of Free and Open Source Software (FOSS) for Tamil computing. Please understand that we are covering only Free as in Freedom software and not proprietary software that is given for free, without sources.
 
 * [Ezhil](http://ezhillang.org/) - A programming language where you can write code in Tamil
 * [korkai கொற்கை](https://github.com/psankar/korkai) A Tamil corpus builder to extract Tamil words from blogger, wordpress, wikipedia XML dumps, and sort them alphabetically and frequency wise
